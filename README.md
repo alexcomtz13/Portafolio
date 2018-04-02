@@ -1,3 +1,3 @@
 # portafolio
 
-https://github.com/alexcomtz13/portafolio
+https://alexcomtz13.github.io/portafolio/
