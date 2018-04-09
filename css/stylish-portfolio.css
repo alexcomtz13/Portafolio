@@ -324,8 +324,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: rgba(250,215.13,0.5) !important;
+  background-color: rgba(250,215.13,0.5) !important;
+  border-color: #1D809F !important;
   color: #fff !important;
 }
 
