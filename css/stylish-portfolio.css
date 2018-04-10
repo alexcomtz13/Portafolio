@@ -115,7 +115,16 @@ h6 {
     height: 100vh;
   }
   .masthead h1 {
+    color: #FFFFFF;
+    float: left;
+    font-family: "Edwardian Script ITC";
     font-size: 5.5rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 100%;
   }
 }
 
