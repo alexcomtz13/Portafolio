@@ -93,12 +93,19 @@ h6 {
   background-size: cover;
 }
 
-.masthead h1 {
-  {
-  font-size: 4rem;
-  margin: 0;
-  padding: 0;
+.h1 {
+    color: #FFFFFF;
+    float: left;
+    font-family: "Edwardian Script";
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 100%;
 }
+
 
 
 }
