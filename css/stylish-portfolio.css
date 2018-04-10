@@ -94,9 +94,18 @@ h6 {
 }
 
 .masthead h1 {
-  font-size: 4rem;
-  margin: 0;
-  padding: 0;
+  {
+    color: #FFFFFF;
+    float: left;
+    font-family: "Edwardian Script";
+    font-size: 4rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+	margin: 0;
+	padding: 0;
+    text-align: center;
+    width: 100%;
+
 }
 
 @media (min-width: 992px) {
